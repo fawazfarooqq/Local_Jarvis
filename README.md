@@ -1,0 +1,1 @@
+*Animated-Telegram** is a local AI desktop automation assistant that converts natural voice commands into intelligent, multi-step system actions. It uses **Ollama-hosted local LLMs** as the reasoning layer, combined with speech recognition and a tool-execution framework to understand user intent, plan workflows, and safely interact
